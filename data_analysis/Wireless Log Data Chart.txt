@@ -1,0 +1,32 @@
+
+Order of operations
+
+Data 1_ - Not quite sure 
+Data 2_ - Not quite sure
+Data 3_ - Not quite sure 
+Data 4_ - Not quite sure
+Data 5_ - Not quite sure
+Data 6_ - Big Counts Value
+Data 7_ - Little Counts Value 
+Data 8_ - Big LTA Value
+Data 9_ - Little LTA Value
+Data 10_ - Not quite sure
+Data 11_ - Not quite sure
+Data 12 _ - Not quite sure
+Data 13_ - Not quite sure
+Data 14_ - Not quite sure
+Data 15_ - Not quite sure
+Data 16_ - Not quite sure
+Data 17_ - Not quite sure
+Data 18_ - Big Counts Value Duplicate
+Data 19_ - Little Counts Value Duplicate
+Data 20_ - Not quite sure
+Data 21_ - Not quite sure
+Data 22_ - Not quite sure
+Data 23_ - Not quite sure
+Data 24_ - Not quite sure
+Data 25_ - Not quite sure
+Data 26_ - Not quite sure
+Data 27_ - Yaw
+Data 28_ - Pitch
+Data 29_ - Timestamp
